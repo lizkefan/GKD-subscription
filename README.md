@@ -11,7 +11,7 @@
 在 GKD 内添加以下链接即可使用此规则
 
 ```txt
-https://github.com/lizkefan/GKD-subscription/tree/main/dist
+https://raw.githubusercontent.com/gkd-kit/subscription/main/dist/gkd.json5
 ```
 
 当前版本: v185
