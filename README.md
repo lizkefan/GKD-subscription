@@ -1,7 +1,7 @@
 # 说明
-本项目`Fork`自原官方项目[@gkd-kit/subscription](https://github.com/gkd-kit/subscription)
+* 本项目`Fork`自原官方项目[@gkd-kit/subscription](https://github.com/gkd-kit/subscription)
 
-默认为官方所有所有规则
+* 默认为官方所有所有规则
 
 # 使用方法
 ---
@@ -22,6 +22,5 @@ https://github.com/lizkefan/GKD-subscription/tree/main/dist
 
 如何编写订阅/贡献此项目 -> [CONTRIBUTING.md](./CONTRIBUTING.md)
 
-## 感谢原作者及以下开发者的贡献
+## 感谢原作者及所有开发者的贡献
 
-![img](https://contrib.rocks/image?repo=gkd-kit/subscription&_v=185)
